@@ -17,7 +17,7 @@
     text-align: left;
 }
 .cover{
-    background-image:url("/images/silverware.jpg") ;
+    background-image:url("https://raw.githubusercontent.com/Rahabwangechi/Grannys-pies-Bakery/main/images/silverware.jpg") ;
     background-attachment: fixed;
  list-style: url("/images/pie icon.jpg.gif");
     list-style-image: url("/images/pie icon.jpg.gif");
