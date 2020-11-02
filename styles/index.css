@@ -1,0 +1,10 @@
+/*css properties*/
+
+.header{display: inline-block;
+    text-decoration: underline;
+    text-decoration-color: violet;
+    background-color: lightgray;
+}
+.list{
+    list-style: none;
+}

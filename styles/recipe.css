@@ -1,0 +1,121 @@
+/*css properties*/
+
+.h1{
+    background-color:#F0F0F0;
+    color:#A4A400 ;
+    text-decoration: underline;
+    font-size: 22pt;
+    text-align: center;
+    font:bold
+}
+ img{
+    width: 300 px;
+    height:300px;
+}
+.list {
+    list-style: none;
+    text-align: left;
+}
+ 
+   
+.container { display: inline;
+    background-color: #F0F0F0 ;
+    text-decoration-color:#A4A400  ;
+    font-size: 11pt;
+    font-family: Georgia;
+    background-image: url("/images/silverware.jpg");
+    background-attachment: fixed;
+    background-repeat:no repeat;
+    background-size: auto;
+    list-style: url("/images/pie icon.jpg.gif");
+    list-style-image: url("/images/pie icon.jpg.gif");
+}
+.cover{
+    background-image:url("/images/silverware.jpg") ;
+    background-attachment: fixed;
+    
+}
+
+.h2{
+    display: inline;
+    background-color:#F0F0F0;
+    color:#A4A400 ;
+    text-decoration: underline;
+    text-align: left;
+    font-size: 18pt;
+    font-family: Lucida Sans Unicode;
+
+}
+.span:hover{
+    visibility:visible;
+}
+.underline {
+   text-decoration: underline;
+   border-bottom: 1px dotted;
+}
+
+
+.directions
+    {
+    display: inline;
+     background-color: #F0F0F0;
+    color:#A4A400 ;
+    text-decoration: underline;
+    font-size: 18pt;
+    text-align: left;
+    font-family: Helvetica;
+
+
+}
+
+.h4{ display: inline;
+    background-color:#F0F0F0 ;
+    color: #A4A400;
+    text-decoration: underline;
+    font-size: 18pt;
+    text-align: left;
+    font-family: Arial;
+}
+.comments{display: inline;
+    background-color:#F0F0F0 ;
+    color: #A4A400;
+    text-decoration: underline;
+    font-size: 18pt;
+    text-align: left;
+    font-family: Arial;
+
+
+}
+.text pre{
+    font-family: monospace;
+    
+    
+
+}
+
+ comment1{
+    background-color: #FFFFA8 ;
+    
+    
+
+}
+ comment2{
+    background-color:#FFFFA8;
+    text-indent: 100px;
+ }
+comment3{
+    background-color:#FFFFA8;
+}
+
+
+
+
+
+
+    
+
+   
+
+
+    
+
