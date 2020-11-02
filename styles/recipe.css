@@ -17,13 +17,14 @@
     text-align: left;
 }
 .cover{
-    background-image:url("https://raw.githubusercontent.com/Rahabwangechi/Grannys-pies-Bakery/main/images/silverware.jpg") ;
+    background-image:url ("https://raw.githubusercontent.com/Rahabwangechi/Grannys-pies-Bakery/main/images/silverware.jpg") ;
     background-attachment: fixed;
- list-style: url("https://raw.githubusercontent.com/Rahabwangechi/Grannys-pies-Bakery/main/images/pie%20icon.jpg.gif");
-    list-style-image: url("https://raw.githubusercontent.com/Rahabwangechi/Grannys-pies-Bakery/main/images/pie%20icon.jpg.gif");
+    list-style: url ("https://raw.githubusercontent.com/Rahabwangechi/Grannys-pies-Bakery/main/images/pie%20icon.jpg.gif");
+    list-style-image: url ("https://raw.githubusercontent.com/Rahabwangechi/Grannys-pies-Bakery/main/images/pie%20icon.jpg.gif");
 }
 
-.container { display: inline;
+.container { 
+    display: inline;
     background-color: #F0F0F0 ;
     text-decoration-color:#A4A400  ;
     font-size: 11pt;
